@@ -1,5 +1,8 @@
 _repo: The-Jews-in-Great-Britain-Being-a-Series-of-Six-Lectures-Delivered-in-the-Liverpool-Collegiat__67851
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67851-h/images/cover.jpg
 creator:
   author:
     agent_name: Margoliouth, Moses
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54495
     wikipedia: https://en.wikipedia.org/wiki/Moses_Margoliouth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67851#The-Jews-in-Great-Britain-Being-a-Series-of-Six-Lectures-Delivered-in-the-Liverpool-Collegiat_
 gutenberg_issued: '2022-04-16'
 identifiers:
   gutenberg: '67851'
